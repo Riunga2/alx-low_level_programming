@@ -2,7 +2,9 @@
 
 int main(void)
 {
-// This program will print "_putchar" followed by a new line.
+_putchar('_');
+_putchar('p');
+_putchar('t');
 printf("_putchar\n");
 return (0);
 }
