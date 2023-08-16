@@ -2,9 +2,6 @@
 
 int main(void)
 {
-putchar('_');
-putchar('p');
-putchar('t');
-("_putchar\n");
+printf("_putchar\n");
 return (0);
 }
