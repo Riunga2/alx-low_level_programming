@@ -2,7 +2,7 @@
 
 int main(void)
 {
-char a[] = "Sue";
+char a[] = "_putchar";
 int i;
 for (i = 0; i < 7; i++)
 {
