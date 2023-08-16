@@ -1,4 +1,4 @@
-#include "main.h"
+##include "main.h"
 /**
  * _isalpha - tests whether a character is from the English alphabet.
  * @c: character to be checked.
@@ -11,6 +11,5 @@ int _isalpha(int c)
 		return (1);
 	else
 		return (0);
-} 
 
 }}
