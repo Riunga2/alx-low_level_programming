@@ -1,13 +1,24 @@
 #include <stdio.h>
 
-int main(void)
+/**
+ * main - Entry point
+ *
+ * Description: a function that prints alphabet
+ * Return 0 (success)
+ */
+ 
+ int main (void)
 {
-char a[] = "_putchar";
-int i;
-for (i = 0; i < 7; i++)
-{
-putchar(a[i]);
+	_putchar('_');
+	_putchar('p');
+        _putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putcahr('a');
+	_putchar('r');
+	_putchr('\n');
+	return (0);
 }
-printf("_putchar\n");
-return (0);
-}
+
+
